@@ -1,0 +1,20 @@
+#!/bin/bash
+cat defaultdance-1.txt
+/bin/sleep 0.6
+cat defaultdance-2.txt
+/bin/sleep 0.6
+cat defaultdance-3.txt
+/bin/sleep 0.6
+cat defaultdance-4.txt
+/bin/sleep 0.6
+cat defaultdance-5.txt
+/bin/sleep 0.6
+cat defaultdance-6.txt
+/bin/sleep 0.6
+cat defaultdance-7.txt
+/bin/sleep 0.6
+cat defaultdance-8.txt
+/bin/sleep 0.6
+cat defaultdance-9.txt
+/bin/sleep 0.6
+cat defaultdance-10.txt
